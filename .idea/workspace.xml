@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8ea5392-5f65-4757-992c-7af4f74d0c2d" name="Changes" comment="Initialization">
-      <change afterPath="$PROJECT_DIR$/ND.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json_to_csv.py" afterDir="false" />
+    <list default="true" id="f8ea5392-5f65-4757-992c-7af4f74d0c2d" name="Changes" comment="Some progress, only individual realization and Snowflake dashboard remains">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,25 +23,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Baravik419"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Baravik419&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Baravik419/Moderniu-duomenu-baziu-pagrindai.git",
-    "accountId": "93008507-d5a3-4907-afbe-8fe1fad9eb19"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Baravik419/Moderniu-duomenu-baziu-pagrindai.git&quot;,
+    &quot;accountId&quot;: &quot;93008507-d5a3-4907-afbe-8fe1fad9eb19&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3BJAh8SFU6pEXt69ZMoSZdWcHts" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,6 +58,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,7 +88,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774196918643</updated>
-      <workItem from="1774196919677" duration="5273000" />
+      <workItem from="1774196919677" duration="5588000" />
+      <workItem from="1774376624791" duration="695000" />
     </task>
     <task id="LOCAL−00001" summary="Initialization">
       <option name="closed" value="true" />
@@ -98,7 +98,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1774197030347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Some progress, only individual realization and Snowflake dashboard remains">
+      <option name="closed" value="true" />
+      <created>1774207761848</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1774207761848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +136,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialization" />
+    <MESSAGE value="Some progress, only individual realization and Snowflake dashboard remains" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some progress, only individual realization and Snowflake dashboard remains" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2_ND$json_to_csv.coverage" NAME="json_to_csv Coverage Results" MODIFIED="1774198601191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
